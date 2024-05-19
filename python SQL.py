@@ -176,4 +176,6 @@ while n!="EXIT":
                 x=input()       
         break
 print(0)
-            
+
+def dummy():
+    pass         
